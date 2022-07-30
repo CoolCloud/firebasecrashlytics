@@ -2,7 +2,7 @@
   "unity": "2017.1", 
   "version": "7.2.0", 
   "dependencies": {
-    "com.google.firebase.app": "git@bitbucket.org:cool_cloud/FirebaseApp.git"
+    "com.google.firebase.app": "https://github.com/CoolCloud/firebaseapp.git"
   }, 
   "name": "com.google.firebase.crashlytics", 
   "keywords": [
